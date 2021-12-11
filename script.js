@@ -1,3 +1,15 @@
+var passwordDOM = document.getElementById("password");
+var copybtnDOM = document.getElementById("Copy");
+var lengthDOM = document.getElementById("length");
+var uppercaseDOM = document.getElementById("uppercase");
+var numbersDOM = document.getElementById("numbers");
+var symbolsDOM = document.getElementById("symbols");
+
+
+
+
+
+
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
