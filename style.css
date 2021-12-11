@@ -23,6 +23,12 @@ body {
   padding-right: 20px;
 }
 
+.option {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px;
+}
+
 header {
   text-align: center;
   padding: 20px;
